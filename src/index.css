@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+
+/* Sidebar container - Right side, Slide-in */
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    background-color: white;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in-out;
+    padding: 1.5rem;
+    z-index: 40;
+    min-width: 200px; 
+    max-width: 90vw; 
+    overflow-y: auto;
+  }
+  
+  /* When sidebar is open, slide it in */
+  .sidebar-open {
+    transform: translateX(0);
+  }
+  
+  /* Close icon style */
+  .sidebar-close-btn {
+    color: #4a4a4a;
+    cursor: pointer;
+    transition: color 0.2s ease;
+  }
+  
+  .sidebar-close-btn:hover {
+    color: #2d2d2d;
+  }
+  
+  /* Content inside sidebar */
+  .sidebar-content {
+    margin-top: 1rem;
+  }
+  
+  .sidebar-empty-msg {
+    color: #888;
+  }
+
+  .modal-overlay {
+    background-color: #0000008f;
+  }

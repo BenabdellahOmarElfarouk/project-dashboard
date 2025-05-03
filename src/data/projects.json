@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "E-commerce Platform",
+    "owner": "Ahmed Mohamed",
+    "description": "A full-featured e-commerce platform with product listings, cart functionality, and payment processing.",
+    "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-01-15",
+    "endDate": "2023-06-30",
+    "status": "completed"
+  },
+  {
+    "id": "2",
+    "title": "Online Learning System",
+    "owner": "Sara Ali",
+    "description": "A web-based LMS for delivering and tracking educational courses online.",
+    "image": "https://plus.unsplash.com/premium_photo-1682089863832-661946531805?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b25saW5lJTIwbGVhcm5pbmclMjBzeXN0ZW18ZW58MHx8MHx8fDA%3D",
+    "startDate": "2023-02-01",
+    "endDate": "2023-08-01",
+    "status": "completed"
+  },
+  {
+    "id": "3",
+    "title": "Inventory Management App",
+    "owner": "Mohamed Fathy",
+    "description": "A solution to manage product inventories, stock levels, and reorder alerts.",
+    "image": "https://media.istockphoto.com/id/1754234413/fr/photo/homme-femme-et-tablette-dans-lentrep%C3%B4t-de-stockage-pour-la-v%C3%A9rification-des-stocks-la-cha%C3%AEne.webp?a=1&b=1&s=612x612&w=0&k=20&c=sdsZO62bcmVaPHslL1tSU-Dvn4NmwAubePInsCOqS84=",
+    "startDate": "2023-03-10",
+    "endDate": "2023-09-15",
+    "status": "in progress"
+  },
+  {
+    "id": "4",
+    "title": "Travel Booking Website",
+    "owner": "Nour Hassan",
+    "description": "Platform for booking flights, hotels, and vacation packages with user reviews.",
+    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-04-05",
+    "endDate": "2023-10-30",
+    "status": "in progress"
+  },
+  {
+    "id": "5",
+    "title": "Restaurant POS System",
+    "owner": "Omar Kamal",
+    "description": "A point-of-sale system for restaurants with order tracking and billing features.",
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-05-01",
+    "endDate": "2023-12-15",
+    "status": "not started"
+  },
+  {
+    "id": "6",
+    "title": "Mobile Banking App",
+    "owner": "Mona Youssef",
+    "description": "A secure mobile banking app for balance inquiries, transfers, and payments.",
+    "image": "https://plus.unsplash.com/premium_photo-1661306416293-e3ab553eb73a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TW9iaWxlJTIwQmFua2luZyUyMEFwcHxlbnwwfHwwfHx8MA%3D%3D",
+    "startDate": "2023-06-12",
+    "endDate": "2023-11-30",
+    "status": "in progress"
+  },
+  {
+    "id": "7",
+    "title": "Fitness Tracker",
+    "owner": "Khaled Said",
+    "description": "An app to monitor workouts, nutrition, and sleep with smartwatch integration.",
+    "image": "https://plus.unsplash.com/premium_photo-1681433383783-661b519b154a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Rml0bmVzcyUyMFRyYWNrZXJ8ZW58MHx8MHx8fDA%3D",
+    "startDate": "2023-07-01",
+    "endDate": "2024-01-01",
+    "status": "completed"
+  },
+  {
+    "id": "8",
+    "title": "Real Estate Portal",
+    "owner": "Laila Hussein",
+    "description": "Online portal for listing, buying, and renting real estate properties.",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-08-20",
+    "endDate": "2024-02-28",
+    "status": "in progress"
+  },
+  {
+    "id": "9",
+    "title": "Online Marketplace",
+    "owner": "Hany Magdy",
+    "description": "C2C platform enabling individuals to buy and sell goods with escrow support.",
+    "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-09-01",
+    "endDate": "2024-03-15",
+    "status": "not started"
+  },
+  {
+    "id": "10",
+    "title": "Digital Wallet",
+    "owner": "Rania Samir",
+    "description": "A digital wallet supporting QR code payments, P2P transfers, and bill payments.",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-09-15",
+    "endDate": "2024-04-01",
+    "status": "in progress"
+  },
+  {
+    "id": "11",
+    "title": "Healthcare Portal",
+    "owner": "Tamer Farouk",
+    "description": "A patient-facing portal for booking appointments, accessing records, and messaging doctors.",
+    "image": "https://plus.unsplash.com/premium_photo-1661699540413-2390093cfb29?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SGVhbHRoY2FyZSUyMFBvcnRhbHxlbnwwfHwwfHx8MA%3D%3D",
+    "startDate": "2023-10-01",
+    "endDate": "2024-04-30",
+    "status": "in progress"
+  },
+  {
+    "id": "12",
+    "title": "School Management System",
+    "owner": "Dina Khalil",
+    "description": "Web app for managing students, classes, exams, and teacher assignments.",
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-11-10",
+    "endDate": "2024-05-20",
+    "status": "not started"
+  },
+  {
+    "id": "13",
+    "title": "IoT Smart Home",
+    "owner": "Walid Reda",
+    "description": "An integrated system to control and automate smart home devices via mobile.",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2023-12-01",
+    "endDate": "2024-06-15",
+    "status": "in progress"
+  },
+  {
+    "id": "14",
+    "title": "Freelance Job Board",
+    "owner": "Aya Tarek",
+    "description": "A platform connecting freelancers with clients offering short and long-term projects.",
+    "image": "https://images.unsplash.com/photo-1612736232022-691d6243202b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RnJlZWxhbmNlJTIwSm9iJTIwQm9hcmR8ZW58MHx8MHx8fDA%3D",
+    "startDate": "2024-01-05",
+    "endDate": "2024-07-10",
+    "status": "in progress"
+  },
+  {
+    "id": "15",
+    "title": "Ride Sharing App",
+    "owner": "Youssef Adel",
+    "description": "An Uber-like platform for booking rides with real-time tracking and driver ratings.",
+    "image": "https://images.unsplash.com/photo-1528033978085-52f315289665?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmlkZSUyMFNoYXJpbmclMjBBcHB8ZW58MHx8MHx8fDA%3D",
+    "startDate": "2024-02-01",
+    "endDate": "2024-08-01",
+    "status": "in progress"
+  },
+  {
+    "id": "16",
+    "title": "Crowdfunding Platform",
+    "owner": "Iman Galal",
+    "description": "A platform where users can start or support crowdfunding campaigns for various causes.",
+    "image": "https://plus.unsplash.com/premium_photo-1680396766429-ccfb5626a40d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q3Jvd2RmdW5kaW5nJTIwUGxhdGZvcm18ZW58MHx8MHx8fDA%3D",
+    "startDate": "2024-03-10",
+    "endDate": "2024-09-10",
+    "status": "not started"
+  },
+  {
+    "id": "17",
+    "title": "Language Learning App",
+    "owner": "Kareem Helmy",
+    "description": "An app to learn new languages with games, flashcards, and daily challenges.",
+    "image": "https://images.unsplash.com/photo-1673515335564-fbe94030e4b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "startDate": "2024-04-01",
+    "endDate": "2024-10-01",
+    "status": "in progress"
+  },
+  {
+    "id": "18",
+    "title": "AI Chatbot Assistant",
+    "owner": "Farah Mostafa",
+    "description": "A customizable AI chatbot for handling customer service queries on websites.",
+    "image": "https://plus.unsplash.com/premium_photo-1725907643567-1694c2737432?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8QUklMjBDaGF0Ym90JTIwQXNzaXN0YW50fGVufDB8fDB8fHww",
+    "startDate": "2024-05-01",
+    "endDate": "2024-11-01",
+    "status": "not started"
+  },
+  {
+    "id": "19",
+    "title": "Blogging Platform",
+    "owner": "Ali Sherif",
+    "description": "A simple blogging CMS with markdown support, categories, and SEO tools.",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2024-06-01",
+    "endDate": "2024-12-01",
+    "status": "not started"
+  },
+  {
+    "id": "20",
+    "title": "Event Ticketing System",
+    "owner": "Salma Ehab",
+    "description": "A platform for managing and selling tickets for events, concerts, and meetups.",
+    "image": "https://images.unsplash.com/photo-1509223197845-458d87318791?auto=format&fit=crop&w=800&q=80",
+    "startDate": "2024-07-01",
+    "endDate": "2025-01-15",
+    "status": "not started"
+  }
+]
